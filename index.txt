@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Web Vino Mompox</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    <meta http-equiv=”Content-Type” content=”text/html; charset=UTF-8″ />
+    <meta http-equiv=”Content-Type” content=”text/html; charset=ISO-8859-1″ />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Amaranth&family=Carter+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navegacion">
+      <ul class="menu">
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Nosotros</a></li>
+        <li><a href="#">Servicios</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+    
+    <header>
+      <h1>Vino Mompox</h1>
+    </header>
+
+    <main>
+        <h2>Productos de total calidad</h2>
+        <h3>18 años de experiencia</h3>
+        <p>gracias por visitar nuestra pagina</p>
+    </main>
+
+    <div>
+      <h4>El Rey vino de corozo</h4>
+      <img src="IMAGENES/vinocorozo1.jpg" width="200" alt="">
+      <div>
+        <h4>Nunca te imaginaste el Mamon en un vino </h4>
+        <img src="IMAGENES/vinomamon.jpg" width="200" alt="">
+      </div>
+      <div>
+        <h4>El segundo consentido de la casa! Vino de Tamarindo</h4>
+        <img src="IMAGENES/vinotamarindo.jpg" width="200" alt="">
+      </div>
+    </div>
+
+    <footer>
+      <p>Derechos Reservados &copy; 2021</p>
+      <p>Diseñado por: Jose Martinez </p>
+      <p>Email: vinomompox@ejemplo.com</p>
+    </footer>
+  
+</body>
+</html>
